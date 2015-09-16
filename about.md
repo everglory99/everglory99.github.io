@@ -1,11 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am a second year graduate student in Department of Statistics,
+University of Washington, Seattle.  I focus on machine learning, in
+particular the development and application of deep learning in
+computer vision and computational biology. I am advised by
+[Dr. William Noble](http://noble.gs.washington.edu/) (Genome Science
+and Computer Science and Engineering) and
+[Dr. Jeff Bilmes](http://melodi.ee.washington.edu/~bilmes/pgs/index.html)
+(Electronic Engineering and Computer Science and Engineering). 
